@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "dotodoamplify7eb84ca2": {}
+      },
+      "api": {
+        "dotodoamplify": {}
+      },
+      "storage": {
+        "s3561af072": {}
       }
     }
   }
